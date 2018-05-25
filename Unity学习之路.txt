@@ -1,0 +1,374 @@
+Unity游戏开发视频教程目录 v18.3
+SiKi  2018-01-27
+作者 siki
+
+（后续最新课程发布请关注SiKi学院www.sikiedu.com，此文章后续不再更新）
+
+本文是我发布的一个Unity游戏开发的学习目录，适合人群有下面的几种：
+
+    想要做独立游戏的人
+
+    想要找游戏开发相关工作的人
+
+    对游戏开发感兴趣的人
+
+    闲的蛋疼的人
+
+
+
+下面的学习路线每一步前面都有一个编号，可以直接在公众号里回复编号，查看这个学习内容的详细信息（课时列表和课时预览视频）
+
+
+
+大家有任何课程上的建议可以直接在SiKi学院（www.sikiedu.com）的课程讨论区里面提问，大家发的每一条信息我都会看，由于时间限制所以不一定都会回复。
+
+你如果想做一些支持siki的事情的话你可以做下面的几件事情：
+
+1，分享siki发布的每篇文章到朋友圈
+
+2，把siki的公众号推荐你身边需要的朋友
+
+有更多朋友的支持，我会走的更远，推出更多的视频教程
+
+
+
+SiKi学院：www.sikiedu.com(更新最新课程)
+
+我的微信公众号是：sikiedu
+
+我的QQ号是：804632564
+
+我的微博是：weibo.com/ipengcheng
+
+
+
+一、最新课程
+
+Unity API常用方法和类详细讲解
+
+http://www.sikiedu.com/course/59/tasks
+
+
+
+AR系列教程 - Vuforia入门 ( Unity 2017.3 )
+
+http://www.sikiedu.com/course/133
+
+
+
+Unity换装系统（Unity 2017.2）
+
+http://www.sikiedu.com/course/130
+
+
+
+通过实例学习：游戏的存档与读档（Unity 2017.2）
+
+http://www.sikiedu.com/course/129
+
+
+
+Unreal入门第二季 密室逃脱（Unreal基本知识学习）
+
+http://www.sikiedu.com/course/124
+
+
+
+Unity新功能指南 - 使用TileMap快速构造2D关卡（Unity2017.3）
+
+http://www.sikiedu.com/course/94
+
+
+
+Unity中级案例-甜品消消乐（Unity2017.2）
+
+http://www.sikiedu.com/course/93
+
+
+
+Unity初级案例 - 吃豆人（Unity2017.2.0）
+
+http://www.sikiedu.com/course/92
+
+
+
+Unity实用插件 - EasyTouch5使用指南（Unity2017.2.0p4）
+
+http://www.sikiedu.com/course/91
+
+
+
+Unity初级案例 - 坦克大战(Unity2017.1)
+
+http://www.sikiedu.com/course/90
+
+
+
+Unity初级案例 - 贪吃蛇（Unity2017.2.0）
+
+http://www.sikiedu.com/course/89
+
+
+
+Unity中级案例 - 捕鱼达人（Unity5.6.4）
+
+http://www.sikiedu.com/course/88
+
+
+
+Unreal入门第一季 C++编程学习
+
+http://www.sikiedu.com/course/86
+
+
+
+126 Unity研究实验室（公众号内回复126）
+
+127 如何制作塔防游戏（基于Unity5.5）
+
+128 Unity编辑器扩展（Advanced Editor Scripting）
+
+129 MySQL数据库从零到精通（Unity服务器端基础）
+
+
+
+二、案例教程
+
+Unity5.2入门课程 - 进入Unity开发的奇幻世界
+
+    共24课时 时长2h42m
+
+    链接： https://pan.baidu.com/s/1mhDZO7m
+
+Tanks坦克大战视频教程
+
+    共12课时
+
+    链接:https://pan.baidu.com/s/1eTbuUxO 密码:qi4b
+
+Unity2D游戏开发2D Roguelike拾荒者
+
+    链接:https://pan.baidu.com/s/1pMvvufp 密码:lzfa
+
+如何使用Unity5.3开发2D游戏-视频教程
+
+    链接:https://pan.baidu.com/s/1hud8VEc 密码:5evt
+
+使用Unity5.2开发《我的世界》Minecraft（入门教程）
+
+    链接:https://pan.baidu.com/s/1eTQfOYm 密码:jwzu
+
+如何制作塔防游戏（基于Unity5.5）
+
+   链接:https://pan.baidu.com/s/1bpPpKVt 密码:x9ih
+
+
+
+三、C#教程
+
+第一季 C#编程初级教程
+
+    共68课时 时长：10h7m
+
+    链接:https://pan.baidu.com/s/1nwGyGDN 密码:memt
+
+第二季 C#编程中级教程
+
+    共38课时 时长：5h40m
+
+    链接:https://pan.baidu.com/s/1htLYalI 密码:78zv
+
+第三季 C#编程高级教程
+
+    共79课时 时长：13h41m
+
+    下载链接:https://pan.baidu.com/s/1slBP7mH 密码:eob1
+
+第四季 数据结构教程
+
+    共28课时 时长：4h58m
+
+    链接:https://pan.baidu.com/s/1i6wT30L 密码:ihye
+
+
+
+四、SDK接入
+
+Google AdMob广告接入 - 赚取第一桶金
+
+    下载链接： https://pan.baidu.com/s/1miNd5f6
+
+unityAds广告接入 - 接入视频广告
+
+    下载链接： https://pan.baidu.com/s/1skKBphz
+
+Bmob支付接入(游戏商店出售道具功能)
+
+    链接:https://pan.baidu.com/s/1nwc285r 密码:i2ha
+
+
+
+五、插件
+
+DFGUI - Daikon Forge GUI视频教程
+
+    共49课时 时长：10h49m
+
+    链接:https://pan.baidu.com/s/1jJeBj98 密码:3p9u
+
+NGUI - Unity最火UI插件学习3.6.8版本
+
+    共41课时 时长：7h0m
+
+    链接:https://pan.baidu.com/s/1htuTDxM 密码:jbld
+
+UGUI - Unity 4.6UIBeta版本入门学习
+
+    共16课时 时长：2h8m
+
+    链接:https://pan.baidu.com/s/1dGA8NYx 密码:3g92
+
+UGUI - Unity 5.1超强UI案例学习
+
+    共40课时 时长：4h35m
+
+    下载链接： http://pan.baidu.com/s/1qYENTW4
+
+DOTween动画插件视频教程
+
+    链接:https://pan.baidu.com/s/1i6Ud2XB 密码:6amf
+
+Unity火爆插件Behavior Designer行为树插件学习
+
+    链接:https://pan.baidu.com/s/1smPd2m5 密码:f6cr
+
+Unity火爆FSM插件PlayMaker视频教程
+
+    下载链接：http://pan.baidu.com/s/1eRywEbw
+
+
+
+六、游戏开发进阶
+
+游戏编程进阶篇 第二季 Windows游戏开发
+
+   链接:https://pan.baidu.com/s/1dG5PgHz 密码:sej0
+
+unet多人联机游戏开发 - 基于Unity5.3
+
+    链接:https://pan.baidu.com/s/1nwRn3p3 密码:w2p8
+
+Unity编辑器扩展（Advanced Editor Scripting）
+
+    链接:http://pan.baidu.com/s/1gfHURYF
+
+    
+
+七、公开课
+
+公开课-C#编程
+
+    共9课时 时长：8h38m
+
+    下载链接:https://pan.baidu.com/s/1qXVom88 密码:bxdw
+
+公开案例-flappy bird
+
+    共4课时 时长：4h24m
+
+    下载链接:https://pan.baidu.com/s/1eScui1G 密码:u6ka
+
+公开课案例-飞机大战游戏
+
+    共7课时 时长：5h26m
+
+    链接:https://pan.baidu.com/s/1pNaDwJT 密码:vqjy
+
+公开课案例-使用df开发应用程序
+
+    共2课时 时长：1h52m
+
+    下载链接:https://pan.baidu.com/s/1pLonkoF 密码:ayvg
+
+公开课案例-豪华版2048开发
+
+    共11课时 时长：6h55m
+
+    链接:https://pan.baidu.com/s/1pMhimyn 密码:5emv
+
+公开课案例-炉石传说-卡牌游戏开发
+
+    共25课时 时长：10h11m
+
+    链接:https://pan.baidu.com/s/1kWsfG5h 密码:m46c
+
+公开课案例-恶魔射手
+
+    共2课时 时长：2h58m
+
+    下载链接： http://pan.baidu.com/s/1qYtPsoG
+
+公开课案例-合金弹头
+
+    共3课时 时长：4h40m
+
+    链接:https://pan.baidu.com/s/1dH1gL4 密码:kx0z
+
+公开课案例-忍者跑酷 Ninja
+
+    共2课时 时长：2h38m
+
+    链接:https://pan.baidu.com/s/1dGf0Hvb 密码:s7qb
+
+EasyTouch 触摸检测插件学习3.1.0版本
+
+    共1课时 时长1h39m
+
+    下载链接：http://pan.baidu.com/s/1ntzSxC1 
+
+    密码：wcvf
+
+Bmob移动后端云服务平台 游戏数据云端存储
+
+    共1课时 时长1h33m
+
+    下载链接： https://pan.baidu.com/s/1cMcbds 
+
+iTween插件 - 补间动画插件学习
+
+    共1课时 时长1h46m
+
+    链接:https://pan.baidu.com/s/1qZU5kfy 密码:pglw
+
+Minimap小地图插件教程
+
+    共1课时 时长1h22m
+
+    链接:https://pan.baidu.com/s/1hualhYG 密码:qhlm
+
+
+
+八、Unity研究实验室（公众号内回复126）
+
+画图-使用LineRenderer组件
+
+    下载地址：http://pan.baidu.com/s/1dFOItFF
+
+
+
+九、Unity开发资源分享
+
+    101 Unity最常用插件和资源、书籍下载
+
+    117 SIKI收藏的10几款Unity商业游戏项目源码
+
+
+
+十、网络游戏
+
+    MySQL数据库从零到精通（Unity服务器端基础）
+
+        共27课时
+
+        链接：http://pan.baidu.com/s/1mh6FR5Y 密码：qlf7
+
