@@ -1,0 +1,10 @@
+
+滚动层：
+image:
+    titleBg(image)
+        text
+    image:添加控件scroll rect 和mask(show mask graphic 能把图片底去掉)
+        text
+
+然后创建ScrollBar，配置好之后，在ScrollImage里面的Vertical ScrollBar 添加ScrollBar控件
+

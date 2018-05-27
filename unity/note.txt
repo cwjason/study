@@ -1,0 +1,36 @@
+game.ceeger.com -- unity 圣典
+
+Unity基础视图
+Project         项目视图，显示资源
+Hierarchy       层级视图 列出当前场景包含什么东西(GameObject)
+Inspector       检视视图（属性视图），能查看GameObject的组件（属性）
+Scene视图       显示有哪些物体组成
+Game视图        预览窗口，游戏运行起来的样子
+
+操作
+alt + mouse_r 远近
+alt + mouse_l 环视物体
+ctrl + d 复制物体
+
+
+场景视图右上角两视图模式:
+persp:透视视图
+iso:平行视图
+
+
+xyz 坐标是米为单位
+
+修改颜色：材质Material
+
+添加组件Add Component
+Rigidbody：刚体组件 ,带物理属性
+添加脚本：
+法1：右键创建，然后拖进组件视图
+法2：点Add Component，写脚本名字，然后添加脚本
+
+坐标系：
+上面可以选择
+Global:世界坐标系
+Local:按局部坐标系来的显示
+
+box clllider 碰撞器
