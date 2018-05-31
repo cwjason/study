@@ -8,3 +8,63 @@ image:
 
 然后创建ScrollBar，配置好之后，在ScrollImage里面的Vertical ScrollBar 添加ScrollBar控件
 
+Slider来控制Cube滚动
+1 创建cube，显示在摄像头前面
+2 改名为Player, 创建RotateSelf.cs
+3 在Update里面修改角度
+    transform.Rotate(Vector3.up * Time.deltaTime * speed);
+4 添加一个函数public void ChangeSpeed(float speedNew)来修改speed
+5 在Slider组件的onValueChange 中添加此方法
+
+
+开始制作UI：
+1 选中所有图片，把TextureType 改成Sprite(2D and UI)
+
+Anchor 
+按alt进行拉伸
+选中哪个Anchor就会跟哪个Anchor保持位置不变
+
+Image
+可以添加Button组件使其有按钮功能
+
+set Native Size保持原有大小
+
+等比缩放图片大小
+shift + 拖拽（左上角为基准点）
+shift + alt + 拖拽（中心点为基准点放大，缩小)
+
+Button组件
+Target Graphic 可以修改要渐变的物品
+
+Text 添加阴影
+添加Shadow组件
+
+
+制作Slider控件
+Image 中添加 Slider组件
+把子物体的File Type改成Filled，重新修改大小
+
+Image, ImageType
+Sliced 九宫切图
+
+
+Toggle Group 把复选框放到同组里面变成单选按钮
+
+多面板显示和隐藏：
+把物体放入到Toggle按钮的onValueChange里面Object中，选择setActive方法便可
+
+
+
+背包小格子实现：
+先创建Empty GameObject,然后选择Component,选择Layout, 选择Grid Layout Group
+
+创建流动层ScrollView：
+先创建一个Image,然后添加Scroll Rect控件，然后把有Grid Layout组件的层添加到此Image,添加Image中的Content,
+让超出的部分不显示：添加Mask组件
+
+练习从29.505开始没做（后面补上）
+实现翻页
+
+缓动效果：
+Update里面添加:
+scrollRect.horizontalNormalizedPosition = Mathf.Lerp(scrollRect.horizontalNormalizedPosition, targetHorizontalPositon, Time.deltaTime)
